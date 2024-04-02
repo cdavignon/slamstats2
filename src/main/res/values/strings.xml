@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="toolbarMain">Main Fragment</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="Description">Use the following inputs below\nto show the standings from\nthe top 15 basketball leagues\n
+(Refer to list provided)</string>
+    <string name="LeagueIDLabel">League ID:</string>
+    <string name="SeasonLabel">Year of Season:</string>
+    <string name="Generate">GENERATE</string>
+</resources>
